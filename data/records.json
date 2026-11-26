@@ -86,6 +86,17 @@
       "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024"
     }
   ],
-  "closures": [],
-  "note": "Selected documented meetings, not evidence of causation. Closure register is incomplete."
+  "closures": [
+    {
+      "date": "2027-02-28",
+      "title": "Vapable Ltd — announced cessation of trading by this date",
+      "status": "announced",
+      "url": "https://vapable.com/closing-down/",
+      "reason": "Company cites duty compliance complexity, expense and penalty risk.",
+      "jobs": null,
+      "checked": "2026-11-26",
+      "companyNumber": "08553549"
+    }
+  ],
+  "note": "Announced closures are distinct from completed closures. No national estimate is inferred."
 }
