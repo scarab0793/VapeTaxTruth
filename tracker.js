@@ -79,6 +79,29 @@ function renderClosures(items) {
   }
 }
 
+/* ---------- Insolvencies and job losses ---------- */
+function renderInsolvencies(data) {
+  const items = data.insolvencies || [];
+  byId('insolvency-note').textContent = data.insolvencyNote || '';
+  const box = byId('insolvency-list');
+  for (const item of items) {
+    const p = el('p', null, { class: 'record' });
+    p.append(el('b', item.name + ' (' + item.companyNumber + ')'));
+    p.append(el('small', item.notice + ', Gazette ' + fmtDate(item.gazetteDate) + '. Companies House status: ' + item.companiesHouseStatus + '. Reason for failure: not stated. Jobs affected: not disclosed.'));
+    const ch = safeUrl(item.sources.companiesHouse), gz = safeUrl(item.sources.gazette);
+    if (ch) p.append(link('Companies House \u2197', ch));
+    if (ch && gz) p.append(document.createTextNode(' \u00b7 '));
+    if (gz) p.append(link('The Gazette \u2197', gz));
+    box.append(p);
+  }
+  const cases = (data.closures || []).concat(items);
+  const known = cases.filter(c => typeof c.jobs === 'number');
+  const total = known.reduce((n, c) => n + c.jobs, 0);
+  byId('job-summary').textContent = known.length
+    ? total + ' job losses documented across ' + known.length + ' of ' + cases.length + ' recorded cases. Cases without a published figure are not counted as zero.'
+    : 'No job-loss figure has been published for any of the ' + cases.length + ' cases on this page, so none are counted. Unknown is not zero, and we do not add estimates to confirmed figures. If you have a sourced figure, use the form below.';
+}
+
 async function loadJson(path) {
   const response = await fetch(path, { cache: 'no-cache' });
   if (!response.ok) throw new Error(path);
@@ -90,6 +113,7 @@ async function loadTracker() {
     const data = await loadJson('./data/records.json');
     renderLobbying(data.lobbying || []);
     renderClosures(data.closures || []);
+    renderInsolvencies(data);
   } catch (e) {
     for (const id of ['lobby-records', 'closure-records']) byId(id).textContent = 'Register unavailable.';
   }

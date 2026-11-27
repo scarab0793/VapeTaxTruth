@@ -245,5 +245,93 @@
     }
   ],
   "note": "Announced closures are distinct from completed closures. No national estimate is inferred.",
-  "lobbyingNote": "Each entry was checked against the meeting disclosure HMRC published for that quarter. A listed meeting shows contact and the stated topic. It does not show what was said or who decided the final rate."
+  "lobbyingNote": "Each entry was checked against the meeting disclosure HMRC published for that quarter. A listed meeting shows contact and the stated topic. It does not show what was said or who decided the final rate.",
+  "insolvencies": [
+    {
+      "id": "I-11757132",
+      "name": "Vape Suite Online Ltd",
+      "companyNumber": "11757132",
+      "notice": "Creditors’ voluntary liquidation",
+      "gazetteDate": "2026-09-30",
+      "liquidatorAppointed": "2026-09-28",
+      "sic": "Retail sale not in stores, stalls or markets",
+      "companiesHouseStatus": "Liquidation",
+      "causeEstablished": false,
+      "jobs": null,
+      "sources": {
+        "companiesHouse": "https://find-and-update.company-information.service.gov.uk/company/11757132",
+        "gazette": "https://www.thegazette.co.uk/company/11757132"
+      },
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "I-13476013",
+      "name": "Vape Suite (Huddersfield) Ltd",
+      "companyNumber": "13476013",
+      "notice": "Creditors’ voluntary liquidation",
+      "gazetteDate": "2026-09-08",
+      "liquidatorAppointed": "2026-09-03",
+      "sic": "Other retail sale in non-specialised stores",
+      "companiesHouseStatus": "Liquidation",
+      "causeEstablished": false,
+      "jobs": null,
+      "sources": {
+        "companiesHouse": "https://find-and-update.company-information.service.gov.uk/company/13476013",
+        "gazette": "https://www.thegazette.co.uk/company/13476013"
+      },
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "I-09648298",
+      "name": "The Vape Chase Ltd",
+      "companyNumber": "09648298",
+      "notice": "Creditors’ voluntary liquidation",
+      "gazetteDate": "2026-09-04",
+      "liquidatorAppointed": "2026-08-19",
+      "sic": "Other retail sale of new goods in specialised stores",
+      "companiesHouseStatus": "Liquidation",
+      "causeEstablished": false,
+      "jobs": null,
+      "sources": {
+        "companiesHouse": "https://find-and-update.company-information.service.gov.uk/company/09648298",
+        "gazette": "https://www.thegazette.co.uk/company/09648298"
+      },
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "I-SC457639",
+      "name": "Emporium Vapour Ltd",
+      "companyNumber": "SC457639",
+      "notice": "Creditors’ voluntary liquidation",
+      "gazetteDate": "2026-09-04",
+      "liquidatorAppointed": "2026-08-27",
+      "sic": "Other retail sale of new goods in specialised stores",
+      "companiesHouseStatus": "Liquidation",
+      "causeEstablished": false,
+      "jobs": null,
+      "sources": {
+        "companiesHouse": "https://find-and-update.company-information.service.gov.uk/company/SC457639",
+        "gazette": "https://www.thegazette.co.uk/company/SC457639"
+      },
+      "checked": "2026-11-27"
+    },
+    {
+      "id": "I-10730444",
+      "name": "Vapestop Ltd",
+      "companyNumber": "10730444",
+      "notice": "Court winding-up order and liquidators appointed",
+      "gazetteDate": "2026-08-06",
+      "liquidatorAppointed": "",
+      "sic": "Retail sale of tobacco products in specialised stores",
+      "companiesHouseStatus": "Liquidation",
+      "causeEstablished": false,
+      "jobs": null,
+      "sources": {
+        "companiesHouse": "https://find-and-update.company-information.service.gov.uk/company/10730444",
+        "gazette": "https://www.thegazette.co.uk/company/10730444"
+      },
+      "checked": "2026-11-27"
+    }
+  ],
+  "insolvencyNote": "Insolvency notices are listed as a record of vape-company failures. A notice does not state why a company failed, and each of these pre-dates the duty start on 1 October 2026. We do not count them as duty-related closures. Company status checked on Companies House on 27 November 2026; notice dates are as published in The Gazette."
 }

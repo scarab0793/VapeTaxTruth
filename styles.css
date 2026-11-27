@@ -9,3 +9,4 @@ select{border:1px solid #565964;background:#111318;color:#fff;border-radius:4px;
 .doc{max-width:760px;padding:70px 24px}.doc h1{font-size:clamp(34px,5vw,52px);line-height:1.1;letter-spacing:-.04em;margin:10px 0 18px}.doc h2{font-size:26px;margin:38px 0 8px;letter-spacing:-.02em}.doc p,.doc li{color:#d0ced1}.doc a{color:var(--red)}
 .info,.panel .info{min-height:0}
 :focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+#insolvency-list{max-height:420px;overflow:auto;border:1px solid #2e313a;padding:16px 16px 4px;background:#111318;margin-bottom:30px}
