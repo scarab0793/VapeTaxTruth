@@ -5,16 +5,29 @@ on:
     - cron: '17 6 * * *'
 permissions:
   contents: write
+concurrency:
+  group: refresh
+  cancel-in-progress: false
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 scripts/refresh.py
-      - run: python3 scripts/reddit.py
-      - run: |
+      - name: Refresh GOV.UK news
+        run: python3 scripts/refresh.py
+      - name: Refresh community feed (best effort)
+        continue-on-error: true
+        run: python3 scripts/reddit.py
+      - name: Validate JSON
+        run: |
+          python3 -m json.tool data/news.json > /dev/null
+          python3 -m json.tool data/reddit.json > /dev/null
+          python3 -m json.tool data/records.json > /dev/null
+      - name: Commit changes
+        run: |
           git config user.name "VapeTaxTruth bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/news.json data/reddit.json
           git diff --cached --quiet || git commit -m "Refresh official news"
+          git pull --rebase origin main
           git push

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scarab0793.github.io/VapeTaxTruth/sitemap.xml

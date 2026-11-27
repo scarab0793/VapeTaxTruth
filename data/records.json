@@ -1,89 +1,234 @@
 {
   "lobbying": [
     {
+      "id": "L-2026-06-26",
       "date": "2026-06-26",
-      "title": "BAT, Philip Morris, JTI and Imperial Brands — Duty or stamps",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2026"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Philip Morris International",
+        "Japan Tobacco International",
+        "Imperial Brands"
+      ],
+      "topic": "Vaping Duty Stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2026",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2026-06-19",
       "date": "2026-06-19",
-      "title": "Imperial Brands — Duty or stamps",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2026"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "Imperial Brands"
+      ],
+      "topic": "Vaping Products Duty and Vaping Duty Stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2026",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2026-06-05",
       "date": "2026-06-05",
-      "title": "BAT, Philip Morris, JTI and Imperial Brands — Duty or stamps",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2026"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Philip Morris International",
+        "Japan Tobacco International",
+        "Imperial Brands"
+      ],
+      "topic": "Vaping Duty Stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2026/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2026",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-12-17",
       "date": "2025-12-17",
-      "title": "BAT — budget response and duty stamps",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-october-to-december-2025/hmrc-policy-meetings-with-tobacco-stakeholders-october-to-december-2025--2"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT"
+      ],
+      "topic": "Response to Autumn Budget, Crown Territories, plans for 2026, details on stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-october-to-december-2025/hmrc-policy-meetings-with-tobacco-stakeholders-october-to-december-2025--2",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-09-11",
       "date": "2025-09-11",
-      "title": "Philip Morris and Imperial Brands — Duty and stamps",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-july-to-september-2025/hmrc-policy-meetings-with-tobacco-stakeholders-july-to-september-2025"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "Philip Morris International",
+        "Imperial Brands"
+      ],
+      "topic": "Vaping Products Duty, Vaping Duty Stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-july-to-september-2025/hmrc-policy-meetings-with-tobacco-stakeholders-july-to-september-2025",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-08-14",
       "date": "2025-08-14",
-      "title": "Philip Morris and BAT — Duty and stamps",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-july-to-september-2025/hmrc-policy-meetings-with-tobacco-stakeholders-july-to-september-2025"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "Philip Morris International",
+        "BAT"
+      ],
+      "topic": "Vaping Products Duty, Vaping Duty Stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-july-to-september-2025/hmrc-policy-meetings-with-tobacco-stakeholders-july-to-september-2025",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-07-10",
       "date": "2025-07-10",
-      "title": "Philip Morris and Tobacco Manufacturers’ Association — Duty and stamps",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-july-to-september-2025/hmrc-policy-meetings-with-tobacco-stakeholders-july-to-september-2025"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "Philip Morris International",
+        "Tobacco Manufacturers’ Association"
+      ],
+      "topic": "Vaping Products Duty, Vaping Duty Stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-july-to-september-2025/hmrc-policy-meetings-with-tobacco-stakeholders-july-to-september-2025",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-06-23",
       "date": "2025-06-23",
-      "title": "Philip Morris — stamps — Vaping policy and compliance",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "Philip Morris International"
+      ],
+      "topic": "Vaping duty stamps",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-05-27",
       "date": "2025-05-27",
-      "title": "BAT, Imperial Brands and JTI — Vaping policy and compliance",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Imperial Brands",
+        "Japan Tobacco International"
+      ],
+      "topic": "Response to consultation on additional compliance measures for Vaping Products Duty",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-05-15",
       "date": "2025-05-15",
-      "title": "BAT, Philip Morris, JTI and Imperial Brands — Vaping policy and compliance",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Philip Morris International",
+        "Japan Tobacco International",
+        "Imperial Brands"
+      ],
+      "topic": "Response to consultation on additional compliance measures for Vaping Products Duty",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2025-05-09",
       "date": "2025-05-09",
-      "title": "BAT — storage and transport — Vaping policy and compliance",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT"
+      ],
+      "topic": "Storage and transport of vaping products",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2025/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2025",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2024-12-03",
       "date": "2024-12-03",
-      "title": "BAT tax representative — Duty and compliance",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-october-to-december-2024/hmrc-policy-meetings-with-tobacco-stakeholders-october-to-december-2024"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT (via tax agent)"
+      ],
+      "topic": "Vaping Products Duty and the technical consultation on additional compliance measures",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-october-to-december-2024/hmrc-policy-meetings-with-tobacco-stakeholders-october-to-december-2024",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2024-11-12",
       "date": "2024-11-12",
-      "title": "BAT, Philip Morris, JTI and Imperial Brands — Duty and compliance",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-october-to-december-2024/hmrc-policy-meetings-with-tobacco-stakeholders-october-to-december-2024"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Philip Morris International",
+        "Japan Tobacco International",
+        "Imperial Brands"
+      ],
+      "topic": "Response to Vaping Products consultation and technical consultation on additional compliance measures",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-october-to-december-2024/hmrc-policy-meetings-with-tobacco-stakeholders-october-to-december-2024",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2024-05-28",
       "date": "2024-05-28",
-      "title": "Philip Morris — Duty consultation",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "Philip Morris International"
+      ],
+      "topic": "Vaping Products Duty consultation",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2024-05-02",
       "date": "2024-05-02",
-      "title": "BAT, Philip Morris, JTI and Imperial Brands — Duty consultation",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Philip Morris International",
+        "Japan Tobacco International",
+        "Imperial Brands"
+      ],
+      "topic": "Vaping Products Duty consultation",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2024-04-25",
       "date": "2024-04-25",
-      "title": "BAT, Philip Morris, JTI and Imperial Brands — Duty consultation",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Philip Morris International",
+        "Japan Tobacco International",
+        "Imperial Brands"
+      ],
+      "topic": "Vaping Products Duty consultation",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024",
+      "checked": "2026-11-27",
+      "status": "verified"
     },
     {
+      "id": "L-2024-04-17",
       "date": "2024-04-17",
-      "title": "BAT, Philip Morris, JTI and Imperial Brands — Duty consultation",
-      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024"
+      "body": "HMRC (Vaping Policy Officials)",
+      "orgs": [
+        "BAT",
+        "Philip Morris International",
+        "Japan Tobacco International",
+        "Imperial Brands"
+      ],
+      "topic": "Vaping Products Duty consultation",
+      "url": "https://www.gov.uk/government/publications/hmrc-officials-meetings-with-tobacco-stakeholders-april-to-june-2024/hmrc-policy-meetings-with-tobacco-stakeholders-april-to-june-2024",
+      "checked": "2026-11-27",
+      "status": "verified"
     }
   ],
   "closures": [
@@ -94,9 +239,11 @@
       "url": "https://vapable.com/closing-down/",
       "reason": "Company cites duty compliance complexity, expense and penalty risk.",
       "jobs": null,
-      "checked": "2026-11-26",
-      "companyNumber": "08553549"
+      "checked": "2026-11-27",
+      "companyNumber": "08553549",
+      "quote": "We will cease trading by 28th February 2027, or sooner if our remaining stock sells out."
     }
   ],
-  "note": "Announced closures are distinct from completed closures. No national estimate is inferred."
+  "note": "Announced closures are distinct from completed closures. No national estimate is inferred.",
+  "lobbyingNote": "Each entry was checked against the meeting disclosure HMRC published for that quarter. A listed meeting shows contact and the stated topic. It does not show what was said or who decided the final rate."
 }
